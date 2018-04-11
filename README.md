@@ -1,6 +1,6 @@
 # fond-of-spryker/smtp-mail
 [![PHP from Travis config](https://img.shields.io/travis/php-v/symfony/symfony.svg)](https://php.net/)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages/fond-of-spryker/contentful)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages/fond-of-spryker/smtp-mail)
 
 Extends the default Spryker mail module with smtp functionality.
 
